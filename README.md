@@ -1,5 +1,5 @@
 <h1 align="left">
-    <a href="Csa Notícias">🔗 React</a>
+    <a href="Csa Notícias">🔗 Csa Notícias</a>
 </h1>
 <p align="left">🚀 Site onde teremos notícias sobre o Centro Sportivo Alagoano </p>
 <h2 align="left">
