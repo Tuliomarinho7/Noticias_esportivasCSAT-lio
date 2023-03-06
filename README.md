@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="left">
     <a href="Csa Notícias">🔗 React</a>
 </h1>
-<p align="center">🚀 Site onde teremos notícias sobre o Centro Sportivo Alagoano </p>
-<h2 align="center">
+<p align="left">🚀 Site onde teremos notícias sobre o Centro Sportivo Alagoano </p>
+<h2 align="left">
     <a href="Tecnologias>
-    <p align="center"> Html,css,javascript,node.js </p>
-<h3 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+    <p align="left"> Html,css,javascript,node.js </p>
+<h3 align="left"> 
+		<p>🚧  React Select 🚀 Em construção...  🚧</p>
 </h3>
