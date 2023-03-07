@@ -8,7 +8,7 @@
 	<p align="left"> funcionalidades </p>
 	</h3>
 <h4 align="left">
-	<a href="Tecnologias"> Tecnologias Utilizadas</a>
+	<a> Tecnologias Utilizadas</a>
     <p align="left"> Html,css,javascript,node.js </p>
 	</h4>
 <h6 align="left"> 
