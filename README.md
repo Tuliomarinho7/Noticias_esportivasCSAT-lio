@@ -1,5 +1,5 @@
 <h1 align="left">
-    <a href="[Csa Notícias](https://www.figma.com/file/bebZj0ELQqb26nUfwxCebd/Untitled?node-id=4%3A67&t=qe21R4XlnPVdEqVv-0)"> Site Csa</a>
+    <a href="https://www.figma.com/file/bebZj0ELQqb26nUfwxCebd/Untitled?node-id=4%3A67&t=qe21R4XlnPVdEqVv-0"> Site Csa</a>
 </h1>
 <h2 align="left"> Descrição
 <p align="left">🚀 Site especializado em notícias e venda de produtos Centro Sportivo Alagoano </p>
